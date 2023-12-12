@@ -10,6 +10,6 @@ Emotion recognition using convolutional neural networks (CNNs).
 Data preprocessing and augmentation techniques.
 Visualization of model performance metrics.
 
-Kaggle Code: https://www.kaggle.com/datasets/sujaykapadnis/emotion-recognition-dataset
+Dataset : https://www.kaggle.com/datasets/sujaykapadnis/emotion-recognition-dataset
 
-Kaggle notebook: https://www.kaggle.com/code/kane6543/emotion-recognition?scriptVersionId=154744368
+Kaggle notebook : https://www.kaggle.com/code/kane6543/emotion-recognition?scriptVersionId=154744368
